@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Cetak Data Semua Arsip</title>
+        <title>Cetak Semua Data Catering</title>
         <link href="../Assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     </head>  
     <body onload="print()">
@@ -18,7 +18,7 @@
                         <h2>Sistem Informasi Arsip Data Catering Kisaran </h2>
                         <h4>Jalan Jendral Sawo, Sentang, Kisaran, <br> Kisaran Timur, Kabupaten Asahan, Sumatera Utara, 21211</h4>
                         <hr>
-                        <h3>DATA SELURUH ARSIP</h3>
+                        <h3>DATA SELURUH CATERING</h3>
                         <table class="table table-bordered table-striped table-hover"> 
                         <tbody>
                                 <thead>
@@ -52,7 +52,7 @@
 									<td><?= $data['nama_customer'] ?></td>
                                     <td><?= $data['alamat'] ?></td>
                                     <td><?= $data['no_hp'] ?></td>
-                                    <td><?= $data['nama_menu'] ?></td>
+                                    <td><?= $data['pilihan_menu'] ?></td>
 									<td><?= $data['keterangan'] ?></td>
 									
                                 </tr>
