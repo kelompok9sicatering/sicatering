@@ -15,8 +15,8 @@
                 <div class="col-sm-12">
                     <!--dalam tabel--->
                     <div class="text-center">
-                        <h2>Sistem Informasi Arsip Data Catering Kisaran </h2>
-                        <h4>Jalan Jendral Sawo, Sentang, Kisaran, <br> Kisaran Timur, Kabupaten Asahan, Sumatera Utara, 21211</h4>
+                        <h2>Sistem Informasi Data Catering Kisaran </h2>
+                        <h4>Jalan Sawo No. 33, Sentang, Kisaran, <br> Kisaran Timur, Kabupaten Asahan, Sumatera Utara, 21211</h4>
                         <hr>
                         <h3>DATA SELURUH CATERING</h3>
                         <table class="table table-bordered table-striped table-hover"> 

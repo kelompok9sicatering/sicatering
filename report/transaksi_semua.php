@@ -15,10 +15,10 @@
                 <div class="col-sm-12">
                     <!--dalam tabel--->
                     <div class="text-center">
-                        <h2>Sistem Informasi Arsip Catering Bahagia Kisaran </h2>
-                        <h4>Jalan Sawo No. 33, Sei Renggas, Kisaran, <br> Kisaran Timur, Kabupaten Asahan, Sumatera Utara, 21211</h4>
+                        <h2>Sistem Informasi  Catering Bahagia Kisaran </h2>
+                        <h4>Jalan Sawo No. 33, Sentang, Kisaran, <br> Kisaran Timur, Kabupaten Asahan, Sumatera Utara, 21211</h4>
                         <hr>
-                        <h3>DATA SELURUH PEMINJAMAN ARSIP</h3>
+                        <h3>DATA SELURUH MENU</h3>
                         <table class="table table-bordered table-striped table-hover">
                         <tbody>
                                 <thead>
